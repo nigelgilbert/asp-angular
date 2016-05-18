@@ -1,0 +1,25 @@
+{
+  "name": "dotnet-angular",
+  "version": "1.0.0",
+  "description": "Angular 1 + .net core.",
+  "main": "Program.cs",
+  "keywords": [
+    ".net",
+    "angular",
+    "fullstack",
+    "es6"
+  ],
+  "author": "Nigel Gilbert",
+  "license": "MIT",
+  "eslintConfig": {
+    "env": {
+      "es6": true
+    }
+  },
+ "dependencies": {
+    "angular": "^1.5.5"
+  },
+ "devDependencies": {
+    "eslint": "^2.0.0"
+  }
+}
