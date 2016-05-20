@@ -1,5 +1,6 @@
 using System.IO;
 using HelloDotnet;
+using HelloDotnet.TwitterStream;
 using Microsoft.AspNetCore.Hosting;
 
 public class Program
@@ -13,6 +14,8 @@ public class Program
             .UseStartup<Startup>()
             .Build();
 
+        TwitterStream.PrintHey();
+        
         host.Run();
     }
 }

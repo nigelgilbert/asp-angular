@@ -8,7 +8,8 @@
     "Microsoft.AspNetCore.Server.Kestrel": "1.0.0-rc2-final",
     "Microsoft.AspNetCore.StaticFiles": "1.0.0-rc2-final",
     "Microsoft.Extensions.PlatformAbstractions": "1.0.0-rc2-final",
-    "Microsoft.AspNetCore.Mvc": "1.0.0-rc2-final"
+    "Microsoft.AspNetCore.Mvc": "1.0.0-rc2-final",
+    "TweetinviAPI": "0.9.12.2"
    },
   "webroot": "wwwroot",
   "tools": {
