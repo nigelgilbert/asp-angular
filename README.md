@@ -1,4 +1,4 @@
-# Angular 1.5 + ASP.NET Core project seed
+# Angular 1.5 + ASP.NET Core seed
 
 ## How to
 
